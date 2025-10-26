@@ -46,3 +46,6 @@ bash termux_config.sh
 - Modüller bağımsız çalışabilir; istenirse sadece belirli modüller çalıştırılabilir.
 - Kurulum sırasında internet bağlantısı gereklidir.
 - Script’ler açık kaynaklıdır, katkıya açıktır.
+ ---
+         **Geliştirici:**
+ [@vlknyldrm55](https://github.com/vlknyldrm55)
